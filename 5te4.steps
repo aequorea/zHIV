@@ -1,0 +1,20 @@
+5te4 steps (using pymol)
+------------------------
+
+download 5te4.pdb from rcsb.org
+run resren.py to create 5te4ren.pdb (renumber residues and remove alternate atom locations)
+load 5te4ren.pdb in pymol
+remove the light chain (chain L)
+remove residues 123 to the end of the heavy chain leaving residues 1-122 (chain H)
+save as 5te4frag.pdb
+
+type findSurfaceResidues
+save atoms as 5te4frag_exposed_atm.pdb
+save residues as 5te4frag_exposed_res.pdb
+select helix, ss H
+save as 5te4frag_helix.pdb
+select sheet, ss S
+save as 5te4frag_sheet.pdb
+modify gly21 file_prefix="5te4frag"
+modify gly21 chains="H"
+run gly21.py

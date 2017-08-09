@@ -21,9 +21,6 @@ So it seemed to me that a more specific binding interaction between the HIV bloc
 
 Of course, one way to explain this data is to assume that the glycans are somehow masking the binding site between HIV and the host, and the reduction in the number of glycans better exposes the binding site making viral penetration more likely. Certainly this is a sensible interpretion. This is however, not the only possible interpretation. Maybe the glycans are acting to prevent the virus from entering the host independent of whatever influence they may be having over the binding sites. So independent of anything, maybe the blocking molecule should be heavily glycosylated so that we give potential HIV invaders that which is reduced in successful invaders. Incidentally, glycans can, like PEG, reduce pinocytosis. So we have two reasons for switching from PEG to glycans for the HIV blocking molecule's coating.
 
-
-
-
 <p align="center">
   <img src="5te4frag.png" width="500"/>
 </p>

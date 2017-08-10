@@ -28,3 +28,5 @@ Of course, one way to explain this data is to assume that the glycans are someho
   zHIV (red and blue) shown bound to gp120 (salmon)
 </p>
 
+Late in 2016, a very nice antibody appeared that bound to HIV on the gp120 protein at the CD4 binding site. It has "near pan" neutralization capability. It is named "N6." It was found to neutralize 98% of HIV isolates tested. It is this antibody that zHIV is based on. Antibodies are complicated beasts. There is a "light chain" and a "heavy chain," both of which have "hypervariable" regions from which the antibody's binding site is constructed. In the case of N6, however, the majority of the contact between N6 and the HIV particle was with N6's heavy chain. Indeed, one of the distinguishing features of N6 is that its light chain had evolved in such a way that "steric clashes" between the light chain and the HIV particle had been minimized. In other words, the light chain had evolved to stay out of the way.
+

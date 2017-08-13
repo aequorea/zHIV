@@ -1,5 +1,4 @@
-# zHIV
-An HIV neutralizer
+# zHIV -- An HIV neutralizer
 
 <p align="center">
   <img src="HIV-blocker-20160510-blk-1080p.png" width="500"/>

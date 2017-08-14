@@ -31,7 +31,7 @@ Of course, one way to explain this data is to assume that the glycans are someho
   <img src="5te4frag.png" width="500"/>
 </p>
 <p align="center">
-  zHIV (red and blue) shown bound to gp120 (salmon)
+  zHIV (red and blue) shown bound to gp120 (salmon) (2017.08.06)
 </p>
 <p align="center">
   (based on 5TE4.PDB -- DOI:10.1016/j.immuni.2016.10.027)

@@ -18,12 +18,15 @@ This is fine, but as far as I can tell, we don't really know for sure by what ro
 <p>
 One method by which a virus can enter a cell without depending on a particular receptor based interaction is called macropinocytosis. By this mechanism, cells can engorge and swallow things it finds in its environment without caring much about what it is. In principle, after a cell swallows something from its environment in this fashion, it gets broken down and recycled. In practice there is some evidence that a productive HIV infection might originate in this way. There are ways to reduce this method of entry into a cell, and for a protein, attaching a PEG (polyethylene glycol) chain to the molecule can reduce macropinocytosis. This is what the purple snake attached to the butterfly's antennae is meant to represent. So the complete design was for a pegylated HIV blocking lectin meant to attach to the glycans on HIV's coat.
 </p>
+<p>
 There's something interesting about the mucosa, which is where this molecule is targeted for, as an HIV preventative measure. The mucosa is full of mucus. Mucus has lots of proteins known as mucins. Mucins are among the most heavily glycosylated molecules known. In other words, the mucins have lots of glycans just like HIV's gp120 molecule. So there is a significant chance that HIV blockers targeted at HIV's glycans might also bind the glycans that are attached to the mucins. So it's possible that many of the blocking molecules would get tangled up in the mucus without ever reaching their target.
-
+</p>
+<p>
 So it seemed to me that a more specific binding interaction between the HIV blocker and the HIV particle would be desireable. But there's something else, something else about HIV's genetic bottleneck. As I've mentioned, this bottleneck reveals that in many cases the initial HIV infection comes from a single HIV particle. But these initial entrants have a very special property compared to HIV that's been participating in an infection for a while. The early entrants have fewer glycosylation sites. This could mean that the early entrants have fewer glycans, and this reduction in glycans could somehow be assisting the HIV particle's entry into the host.
-
+</p>
+<p>
 Of course, one way to explain this data is to assume that the glycans are somehow masking the binding site between HIV and the host, the binding site between CD4 and gp120, and the reduction in the number of glycans better exposes the binding site making viral penetration more likely. Certainly this is a sensible interpretation. This is however, not the only possible interpretation. Maybe the glycans are acting to prevent the virus from entering the host independent of whatever influence they may be having over the binding sites. So maybe the blocking molecule should be heavily glycosylated so that we give potential HIV invaders that which is reduced in successful invaders. Incidentally, glycans might in a way similar to PEG, reduce macropinocytosis. So we have two reasons for switching from PEG to glycans for the HIV blocking molecule's coating.
-
+</p>
 <p align="center">
   <img src="5te4frag.png" width="500"/>
 </p>

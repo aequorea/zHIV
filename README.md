@@ -43,5 +43,5 @@ This fortuitous feature of N6 provided an opportunity to create a blocking molec
 
 Having said all of that, the idea of blocking the interaction between gp120 and CD4 is fairly non-controversial. That glycosylation might improve performance is fairly speculative. In other words, there is a reason for doing the experiment. Does glycosylation of an HIV blocking molecule reduce the probability of infection?
 
-The other question is even though the molecule was designed as a preventive measure to be used in the mucosa, could it be a non-ARV theraputic? Normal retroviral treatments can have side effects. Would this molecule be an effective theraputic with fewer side effects?
+Another question is even though the molecule was designed as a preventive measure to be used in the mucosa, could it be an effective non-ARV theraputic? Normal retroviral treatments can have side effects. Could this molecule be an effective theraputic with fewer side effects?
 

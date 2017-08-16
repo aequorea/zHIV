@@ -6,7 +6,7 @@ An HIV neutralizer
 <p align="center">
   Original design -- drawn May 10, 2016
 </p>
-This design has a bit of history. The original concept was drawn early in 2016. The picture isn't exactly drawn to scale, but here's the idea... On the left we have a couple of zig-zags representing genetic material surrounded by a pair of concentric enclosing curves. This is the HIV particle. Attached to the main particle is a hexagon. This a sugar, or a glycan. These come in many types strung together in chains of many lengths. HIV's env glycoprotein complex that protrudes from its outer membrane is coated with glycans. In this schematic drawing, somewhat enclosing the glycan is a butterfly like structure. This is a lectin. Lectins like to stick to glycans.
+The picture isn't exactly drawn to scale, but here's the idea... On the left we have a couple of zig-zags representing genetic material surrounded by a pair of concentric enclosing curves. This is the HIV particle. Attached to the main particle is a hexagon. This a sugar, or a glycan. These come in many types strung together in chains of many lengths. HIV's env glycoprotein complex that protrudes from its outer membrane is coated with glycans. In this schematic drawing, somewhat enclosing the glycan is a butterfly like structure. This is a lectin. Lectins like to stick to glycans.
 <p>
 </p>
 <p>

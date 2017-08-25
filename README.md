@@ -36,8 +36,27 @@ One way to explain this data is to assume that the glycans are somehow masking t
 <p align="center">
   (based on 5TE4.PDB -- DOI:10.1016/j.immuni.2016.10.027)
 </p>
-
+<p>
 Late in 2016, an antibody was discovered that binds to HIV on the gp120 protein at the CD4 binding site (DOI:10.1016/j.immuni.2016.10.027). It has "near pan" neutralization capability. It is named "N6." It was found to neutralize 98% of HIV isolates tested. It is this antibody that zHIV is based on. Antibodies are complicated beasts. There is a "light chain" and a "heavy chain," both of which have "hypervariable" regions from which the antibody's binding site is constructed. In the case of N6 however, the majority of the contact between N6 and the HIV particle was with N6's heavy chain. Indeed, one of the distinguishing features of N6 is that its light chain had evolved in such a way that "steric clashes" between the light chain and the HIV particle had been minimized. In other words, the light chain had evolved to stay out of the way.
-
+</p>
+<p>
 This fortuitous feature of N6 provided an opportunity to create a blocking molecule that is small. Small molecules have some desirable features. Generally speaking, they move faster making them more likely to find their binding partner more quickly and easily than large molecules, and they can also be cheaper and easier to produce. So the essence of the design is to remove as much of the antibody as possible leaving only the heavy chain's terminal module which contains the binding region. In the above picture, we show the stripped down molecular fragment bound to HIV's gp120 protein. The fragment is shown in blue and red. The red portions indicate the 41 amino acid sidechains of possibly desirable glycosylation sites as determined by gly21 software. The actual locations for the glycosylation sites would be determined experimentally by finding out which of these 41 sites, when glycosylated, result in molecules that are efficiently expressed, efficiently glycosylated, with glycans that do not interfere excessively with binding.
-
+</p>
+<p>
+Of course it's one thing to spec out a new design, but it's quite another thing to find out if it works. So here are some questions to look at:
+</p>
+<p>
+1. Does removing the light chain from N6 improve its binding or does it make things worse? How many isolates can the stripped down molecule neutralize?
+</p>
+<p>
+2. What, if anything, do the additional glycans have to do with pathogenesis? Do the additional glycans actually help or do they make things worse?
+</p>
+<p>
+3. Could these molecules be used as theraputics? Or are an antibody's effector functions necessary for proper handling and disposal of the pathogen?
+</p>
+<p>
+4. Can we make more? Can we screen an antibody library for single chain binders for conversion into small molecules?
+</p>
+<p>
+5. Can we persuade the immune system to make single chain binding antibodies with reduced specificity? Can we design a vaccine that persuades the immune system to make broadly neutralizing antibodies by encouraging it to select single chain binders? What role would glycans play in the design?
+</p>

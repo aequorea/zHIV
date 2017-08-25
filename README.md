@@ -46,7 +46,7 @@ This fortuitous feature of N6 provided an opportunity to create a blocking molec
  ---
 </p>
 <p>
-Of course it's one thing to spec out a new design, but it's quite another thing to find out if it works. So here are some questions to look at:
+It's one thing to spec out a new design, but it's quite another thing to find out if it works. So here are some questions to look at:
 </p>
 <p>
 1. Does removing the light chain from N6 improve its binding or does it make things worse? How many isolates can the stripped down molecule neutralize?

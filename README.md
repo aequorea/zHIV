@@ -43,6 +43,7 @@ Late in 2016, an antibody was discovered that binds to HIV on the gp120 protein 
 This fortuitous feature of N6 provided an opportunity to create a blocking molecule that is small. Small molecules have some desirable features. Generally speaking, they move faster making them more likely to find their binding partner more quickly and easily than large molecules, and they can also be cheaper and easier to produce. So the essence of the design is to remove as much of the antibody as possible leaving only the heavy chain's terminal module which contains the binding region. In the above picture, we show the stripped down molecular fragment bound to HIV's gp120 protein. The fragment is shown in blue and red. The red portions indicate the 41 amino acid sidechains of possibly desirable glycosylation sites as determined by gly21 software. The actual locations for the glycosylation sites would be determined experimentally by finding out which of these 41 sites, when glycosylated, result in molecules that are efficiently expressed, efficiently glycosylated, with glycans that do not interfere excessively with binding.
 </p>
 <p>
+ 
 </p>
 <p>
 Of course it's one thing to spec out a new design, but it's quite another thing to find out if it works. So here are some questions to look at:

@@ -1,5 +1,5 @@
 # zHIV
-An HIV neutralizer
+An HIV neutralizer -- "Resistance is futile!"
 <p align="center">
   <img src="5te4frag.png" width="500"/>
 </p>

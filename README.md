@@ -7,6 +7,9 @@ An HIV neutralizer -- "Resistance is futile!"
   zHIV (red and blue) shown bound to gp120 (salmon)
 </p>
 <p align="center">
+  Potential glycosylation sites on zHIV are shown in red.
+</p>
+<p align="center">
   (based on 5TE4.PDB -- DOI:10.1016/j.immuni.2016.10.027)
 </p>
 <p>
